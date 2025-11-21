@@ -1,4 +1,4 @@
-# Fitness Tracker (CPSC 233 Group Project)
+# FitMe
 
 ## Authors
 - Vini de Melo
