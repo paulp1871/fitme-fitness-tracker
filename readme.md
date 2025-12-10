@@ -1,4 +1,4 @@
-# FitMe
+# FitMe - Fitness Tracker
 
 ## Authors
 - Vini de Melo
